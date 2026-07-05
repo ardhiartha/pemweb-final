@@ -113,7 +113,7 @@ Berikut adalah beberapa tampilan antarmuka dari Sistem Manajemen Perpustakaan:
 
 1. **Clone repository**
    ```bash
-   git clone https://github.com/karuniaraharjo/pemweb2-p15.git
+   git clone https://github.com/ardhiartha/pemweb-final.git
    cd perpustakaan
    ```
 
@@ -234,8 +234,8 @@ perpustakaan/
 
 | | Info |
 |---|---|
-| **Nama** | Karunia Raharjo |
-| **NIM** | 60324016 |
+| **Nama** | Surya Ardhiartha Putro Utomo |
+| **NIM** | 60324038 |
 | **Mata Kuliah** | Pemrograman Web 2 |
 | **Dosen Pengampu** | Mohammad Reza Maulana, M.Kom. |
 | **Universitas** | UIN K.H. Abdurrahman Wahid Pekalongan |
